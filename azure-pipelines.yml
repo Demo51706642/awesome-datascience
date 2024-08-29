@@ -5,8 +5,6 @@
 
 trigger:
 - live
-- task: udPushComponentVersion@0
-  inputs:
 pool:
   vmImage: ubuntu-latest
 
